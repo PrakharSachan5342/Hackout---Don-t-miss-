@@ -1,2 +1,2 @@
 # Hackout---Don-t-miss-
-Blockchain based travel app 
+Blockchain based Travel app/assistant
