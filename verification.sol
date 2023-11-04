@@ -44,3 +44,7 @@ contract UserVerification {
         return (v, r, s);
     }
 }
+
+//consider using a basic identity verification process using a signed message.
+//This process involves the user signing a specific message with their private key and then submitting that signed message to the smart contract for verification.
+
