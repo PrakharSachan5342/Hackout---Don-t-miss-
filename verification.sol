@@ -45,6 +45,10 @@ contract UserVerification {
     }
 }
 
+//This contract has a verifyUser function that takes a signature as an argument.
+//The user signs a specific message with their private key and then submits this signature to the verifyUser function. 
+//The contract verifies the signature and marks the user as verified if the signature is valid.
+
 //consider using a basic identity verification process using a signed message.
 //This process involves the user signing a specific message with their private key and then submitting that signed message to the smart contract for verification.
 
