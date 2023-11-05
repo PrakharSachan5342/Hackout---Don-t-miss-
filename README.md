@@ -70,10 +70,11 @@ npm or yarn package manager installed
 
 
 1: Clone the repository:
-Bash
+'''Bash
 git clone https://github.com/[your-github-username]/travel-assistant-app.git
-
+'''
 2: Navigate to the project directory:
+
 Bash
 cd travel-assistant-app
 
@@ -89,7 +90,7 @@ The app will be running on port 3000. Open your web browser and navigate to http
 
 -------------------------------------
 
-**Blockchain Setup:**
+**✨Blockchain Setup:**
 
 --------------------------------------
 
