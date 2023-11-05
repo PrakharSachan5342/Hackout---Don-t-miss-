@@ -70,11 +70,11 @@ npm or yarn package manager installed
 
 
 1: Clone the repository:
-'''Bash
+Bash
 git clone https://github.com/[your-github-username]/travel-assistant-app.git
-'''
-2: Navigate to the project directory:
 
+
+2: Navigate to the project directory:
 Bash
 cd travel-assistant-app
 
