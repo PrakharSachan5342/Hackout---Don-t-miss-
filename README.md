@@ -132,17 +132,7 @@ Verified users can access additional features or services within the app.
 
 3: Interact with the contracts using MetaMask or a web3 library.
 
--------------------------------------------------------
 
-**✨Additional Notes:**
-
--------------------------------------------------------
-
-For production deployment, consider using a cloud-based hosting platform and a more robust blockchain infrastructure.
-
-Implement additional security measures to protect user data and transactions.
-
-Continuously test and update the app to ensure optimal performance and security.
 
 
 
