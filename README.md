@@ -8,6 +8,7 @@ The Travel Assistant App is a web-based application designed to simplify travel 
 -----------------------------------------------------------
 
 **✨Unique Selling Points (USPs):**
+
 --------------------------------------
 
 User-Centric Budget-Driven Travel Planning: The app prioritizes the user's budget and convenience by first understanding their financial constraints and travel preferences, offering a highly personalized travel plan tailored to their unique needs.
@@ -18,7 +19,9 @@ User Convenience: The app shields users from the complexities of blockchain tech
 
 Real-time Updates and Information: The app provides real-time updates on travel times, destinations, and other vital information, ensuring that users have the most current data at their fingertips.
 
-Key Features:
+----------------------------------------------
+**✨Key Features:**
+-----------------------------------------------
 
 Budget-driven trip planning
 
