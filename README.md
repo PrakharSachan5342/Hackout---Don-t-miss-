@@ -58,12 +58,14 @@ Replit for collaborative development
 ---------------------------------------------------
 
 **Prerequisites:**
+------------------
 
 Node.js installed
 
 npm or yarn package manager installed
 
 **Steps:**
+-----------------
 
 Clone the repository:
 Bash
