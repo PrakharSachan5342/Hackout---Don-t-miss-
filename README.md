@@ -73,33 +73,41 @@ npm or yarn package manager installed
 Bash
 git clone https://github.com/[your-github-username]/travel-assistant-app.git
 
-Navigate to the project directory:
+2: Navigate to the project directory:
 Bash
 cd travel-assistant-app
-Use code with caution. Learn more
-Install dependencies:
+
+3:Install dependencies:
 Bash
 npm install
-Use code with caution. Learn more
-Start the development server:
+
+4: Start the development server:
 Bash
 npm start
-Use code with caution. Learn more
+
 The app will be running on port 3000. Open your web browser and navigate to http://localhost:3000 to access the app.
 
-Blockchain Setup:
+-------------------------------------
 
-Install MetaMask or other Ethereum-compatible wallet extension.
+**Blockchain Setup:**
 
-Set up a Rinkeby testnet account and acquire some testnet ETH (see MetaMask documentation).
+--------------------------------------
 
-Deploy the smart contracts to the Rinkeby testnet.
+1: Install MetaMask or other Ethereum-compatible wallet extension.
 
-Update the app's configuration with the deployed contract addresses.
+2: Set up a Rinkeby testnet account and acquire some testnet ETH (see MetaMask documentation).
 
-Documentation for Blockchain Contracts:
+3: Deploy the smart contracts to the Rinkeby testnet.
 
-HotelBookingPayment Contract:
+4: Update the app's configuration with the deployed contract addresses.
+
+-------------------------------------------------
+
+**✨Documentation for Blockchain Contracts:**
+
+-------------------------------------------------
+
+1: HotelBookingPayment Contract:
 
 This contract facilitates secure payment transactions for hotel bookings using blockchain technology.
 
@@ -107,21 +115,27 @@ Users can deposit funds into the contract and make payments to hotels.
 
 Hotels can withdraw funds from the contract.
 
-UserVerification Contract:
+2: UserVerification Contract:
 
 This contract enables users to verify their identity using a signed message and their private key.
 
 Verified users can access additional features or services within the app.
 
-Running the Blockchain Contracts:
+----------------------------------------------
+**✨Running the Blockchain Contracts:**
+------------------------------------------------
 
-Connect MetaMask to the Rinkeby testnet.
+1: Connect MetaMask to the Rinkeby testnet.
 
-Deploy the contracts using a development environment like Remix or Hardhat.
+2: Deploy the contracts using a development environment like Remix or Hardhat.
 
-Interact with the contracts using MetaMask or a web3 library.
+3: Interact with the contracts using MetaMask or a web3 library.
 
-Additional Notes:
+-------------------------------------------------------
+
+**✨Additional Notes:**
+
+-------------------------------------------------------
 
 For production deployment, consider using a cloud-based hosting platform and a more robust blockchain infrastructure.
 
