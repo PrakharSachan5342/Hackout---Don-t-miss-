@@ -1,8 +1,8 @@
 <h1 align="center">Safarnama - Blockchain powered travel assistant</h1>
 
-Safarnama - Blockchin powered travel assistant
+**✨Project Summary:**
 
-Project Summary:
+
 
 The Travel Assistant App is a web-based application designed to simplify travel planning and enhance the overall travel experience. It offers features such as travel cost estimation, trip planning, and hostel selection based on user preferences. Users can enter their source, destination, budget, and other details to receive personalized travel recommendations. The app also leverages blockchain technology for secure transactions and identity verification.
 
