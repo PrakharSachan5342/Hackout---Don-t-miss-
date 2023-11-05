@@ -1,4 +1,4 @@
-<h1 align="center">Safarnama - Blockchin powered travel assistant</h1>
+<h1 align="center">Safarnama - Blockchain powered travel assistant</h1>
 
 Safarnama - Blockchin powered travel assistant
 
