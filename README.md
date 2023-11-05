@@ -51,15 +51,19 @@ Blockchain technology
 
 Replit for collaborative development
 
-Installation and Setup:
+----------------------------------------------------
 
-Prerequisites:
+**✨Installation and Setup:**
+
+---------------------------------------------------
+
+**Prerequisites:**
 
 Node.js installed
 
 npm or yarn package manager installed
 
-Steps:
+**Steps:**
 
 Clone the repository:
 Bash
