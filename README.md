@@ -60,6 +60,7 @@ Replit for collaborative development
 **Prerequisites:**
 ------------------
 
+
 Node.js installed
 
 npm or yarn package manager installed
@@ -67,10 +68,11 @@ npm or yarn package manager installed
 **Steps:**
 -----------------
 
-Clone the repository:
+
+1: Clone the repository:
 Bash
 git clone https://github.com/[your-github-username]/travel-assistant-app.git
-Use code with caution. Learn more
+
 Navigate to the project directory:
 Bash
 cd travel-assistant-app
