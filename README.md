@@ -1,6 +1,8 @@
 <h1 align="center">Safarnama - Blockchain powered travel assistant</h1>
 
+
 **✨Project Summary:**
+
 ----------------------------------------------------------
 
 The Travel Assistant App is a web-based application designed to simplify travel planning and enhance the overall travel experience. It offers features such as travel cost estimation, trip planning, and hostel selection based on user preferences. Users can enter their source, destination, budget, and other details to receive personalized travel recommendations. The app also leverages blockchain technology for secure transactions and identity verification.
@@ -132,7 +134,13 @@ Verified users can access additional features or services within the app.
 
 3: Interact with the contracts using MetaMask or a web3 library.
 
+----------------------------------------------------------
+**user-interface**
 
+![page-1](https://github.com/PrakharSachan5342/Hackout---Don-t-miss-/assets/91385023/aa4570e5-a09a-49e2-bb97-1a65edf559f8)  ![page-2](https://github.com/PrakharSachan5342/Hackout---Don-t-miss-/assets/91385023/940940a1-9b5b-4b75-bce4-4a2c713560c4)  ![page-3](https://github.com/PrakharSachan5342/Hackout---Don-t-miss-/assets/91385023/7c3395fb-0e94-4284-b32b-25cf313a03fe)  ![page-4](https://github.com/PrakharSachan5342/Hackout---Don-t-miss-/assets/91385023/12ebd2d9-368f-49e6-bead-eb5ae051e9af)  ![page-5](https://github.com/PrakharSachan5342/Hackout---Don-t-miss-/assets/91385023/6e2f5121-5704-41b0-86ff-fea63eb69dfb)  ![page-6](https://github.com/PrakharSachan5342/Hackout---Don-t-miss-/assets/91385023/30a9d194-28d1-4389-a7b2-b7d2ae77eed0)  ![page-7](https://github.com/PrakharSachan5342/Hackout---Don-t-miss-/assets/91385023/ab897bf0-851c-4d5d-ac29-b7ebf2aacaff)
+
+
+![page-8](https://github.com/PrakharSachan5342/Hackout---Don-t-miss-/assets/91385023/f8fa1a3a-1123-4326-a3c6-02467bb426fd)
 
 
 
