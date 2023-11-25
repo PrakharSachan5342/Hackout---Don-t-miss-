@@ -1,20 +1,18 @@
 <h1 align="center">Safarnama - Blockchain powered travel assistant</h1>
 
-<blockquote align="center">built on <span style="color: #8b0000;">☕</span> at <a href="https://https://www.hackout.io//">Hackout</a>.
-
 
 
 **✨Project Summary:**
 
-----------------------------------------------------------
+--------------
 
 The Travel Assistant App is a web-based application designed to simplify travel planning and enhance the overall travel experience. It offers features such as travel cost estimation, trip planning, and hostel selection based on user preferences. Users can enter their source, destination, budget, and other details to receive personalized travel recommendations. The app also leverages blockchain technology for secure transactions and identity verification.
 
------------------------------------------------------------
+------------------------------------------------
 
 **✨Unique Selling Points (USPs):**
 
-----------------------------------------------------------
+------------------------------------------------
 
 User-Centric Budget-Driven Travel Planning: The app prioritizes the user's budget and convenience by first understanding their financial constraints and travel preferences, offering a highly personalized travel plan tailored to their unique needs.
 
